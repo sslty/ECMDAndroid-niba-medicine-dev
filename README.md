@@ -1,2 +1,2 @@
-# ECMDAndroid-niba-medicine-dev,是用compile，AndroidStudio2
+# ECMDAndroid-niba-medicine-dev,是用compile and AndroidStudio2
 
